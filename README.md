@@ -72,3 +72,5 @@ The biggest real-world hurdle wasn't the AI logic — it was environment setup: 
 6. Open the local URL Streamlit prints (usually `http://localhost:8501`), upload a resume and a job description PDF, and click **Analyze**.
 
 ## 🎥 Video
+
+https://drive.google.com/file/d/1I-9rCA38eVDJg8L1PxJ7sC4Mgh3gIsGe/view
